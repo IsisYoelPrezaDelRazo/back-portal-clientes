@@ -1,0 +1,27 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuración de usuario
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Archivos del sistema
+*.db
+*.log
+*.DS_Store
+*.swp
+*.tmp
+
+# Git y control de versiones
+.git/
+.gitignore
+
+# Archivos de entorno local
+.env
+.env.*
+
+# Archivos de publicación (si usas publish localmente)
+publish/
